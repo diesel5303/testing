@@ -1,0 +1,36 @@
+{
+  "name": "testing",
+  "version": "0.0.1",
+  "description": "Learning to test",
+  "main": "--",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diesel5303/testing.git"
+  },
+  "keywords": [
+    "testing",
+    "javascript",
+    "karma",
+    "travis",
+    "jasmine",
+    "node"
+  ],
+  "author": "zdunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diesel5303/testing/issues"
+  },
+  "homepage": "https://github.com/diesel5303/testing#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.35",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.5"
+  }
+}
