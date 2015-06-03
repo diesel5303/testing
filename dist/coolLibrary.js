@@ -4,7 +4,7 @@
 	n.style.backgroundColor = 'teal';
 	n.style.width = '250px';
 	n.style.height = '250px';
-	n.setAttribute('foo', 'bar');
+	n.setAttribute('foo', 'zach');
 	n.classList.add('box');
 	document.body.appendChild(n);
 })();
